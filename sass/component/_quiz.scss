@@ -1,0 +1,27 @@
+@use 'variable' as v;
+
+//index styles
+.quiz-head {
+    background: transparent;
+    width: 100;
+    height: 110vh;
+    text-align: center;
+
+    h1 {
+        font-size: 5rem;
+        letter-spacing: .1em;
+    }
+
+    button {
+        padding: 13px 26px;
+        border: none;
+        background: v.$Cobalt-blue;
+        color: v.$White;
+        border-radius: 12px;
+        transition: .300s ease-in-out;
+    }
+    button:hover {
+        cursor: pointer;
+        background: v.$Light-royal-blue;
+    }
+}

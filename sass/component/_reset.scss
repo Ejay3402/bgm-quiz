@@ -1,0 +1,37 @@
+@use 'variable' as v;
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+html {
+    box-sizing: inherit;
+    scroll-behavior: smooth;
+}
+
+a,
+a:focus, 
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: url(../../assets/iamges/Premium\ Photo\ _\ Blue\ question\ mark\ random\ pattern\ background_\ Illustration_.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: v.$roboto;
+    font-weight: 7000;
+}
+
+button {
+    font: inherit;
+    cursor: pointer;
+}

@@ -1,0 +1,382 @@
+
+[
+{
+    "id": 1,
+    "question": "Who was the first woman created by God?",
+    "answers": {
+        "a": "A. Eve",
+        "b": "B. Sarah",
+        "c": "C. Rachel",
+        "d": "D. Leah"
+    },
+    "correct": "a"
+},
+  {
+    "id" : 2,
+    "question": "Who built an ark to survive the flood?",
+    "answers": {
+        "a" : "A. Abraham",
+        "b" : "B. Isaac",
+        "c" : "C. Jacob",
+        "d" : "D. Noah"
+    },
+    "correct": "d"
+  },
+  {
+    "id" : 3,
+    "question": "What did God create on the seventh day?",
+    "answers": {
+        "a" : "A. Animals",
+        "b" : "B. Light",
+        "c" : "C. Man",
+        "d" :  "D. Rest"
+    },
+    "correct": "Rest"
+  },
+  {
+    "question": "Who was the son of Abraham and Sarah?",
+    "options": ["Isaac", "Ishmael", "Esau", "Jacob"],
+    "answer": "Isaac"
+  },
+  {
+    "question": "Who received the Ten Commandments from God?",
+    "options": ["Aaron", "Moses", "Joshua", "Caleb"],
+    "answer": "Moses"
+  },
+  {
+    "question": "What sea did the Israelites cross to escape from Egypt?",
+    "options": ["Dead Sea", "Sea of Galilee", "Red Sea", "Mediterranean Sea"],
+    "answer": "Red Sea"
+  },
+  {
+    "question": "What food did God provide from heaven for the Israelites?",
+    "options": ["Bread", "Fish", "Manna", "Fruit"],
+    "answer": "Manna"
+  },
+  {
+    "question": "Who was Moses' sister who watched over him as a baby?",
+    "options": ["Leah", "Miriam", "Rachel", "Sarah"],
+    "answer": "Miriam"
+  },
+  {
+    "question": "What was the purpose of the sacrifices detailed in Leviticus?",
+    "options": ["Decoration", "Celebration", "Atonement for sins", "Trade"],
+    "answer": "Atonement for sins"
+  },
+  {
+    "question": "Which tribe was appointed as priests in Israel?",
+    "options": ["Judah", "Ephraim", "Benjamin", "Levi"],
+    "answer": "Levi"
+  },
+  {
+    "question": "What was not allowed to be offered as a burnt offering?",
+    "options": ["Male animals", "Birds", "Animals with defects", "Animals without blemish"],
+    "answer": "Animals with defects"
+  },
+  {
+    "question": "What day was the Day of Atonement observed?",
+    "options": ["First day of the month", "Tenth day of the seventh month", "Fifteenth day of the first month", "Seventh day of the tenth month"],
+    "answer": "Tenth day of the seventh month"
+  },
+  {
+    "question": "How many spies were sent to Canaan?",
+    "options": ["5", "10", "12", "15"],
+    "answer": "12"
+  },
+  {
+    "question": "Who rebelled against Moses' leadership?",
+    "options": ["Korah", "Caleb", "Aaron", "Joshua"],
+    "answer": "Korah"
+  },
+  {
+    "question": "What was the symbol of God's presence and guidance?",
+    "options": ["A dove", "A cloud", "A mountain", "A stone"],
+    "answer": "A cloud"
+  },
+  {
+    "question": "Where did Moses strike a rock to bring water?",
+    "options": ["Meribah", "Jericho", "Sinai", "Bethel"],
+    "answer": "Meribah"
+  },
+  {
+    "question": "Which commandment emphasizes honoring parents?",
+    "options": ["First", "Fifth", "Seventh", "Tenth"],
+    "answer": "Fifth"
+  },
+  {
+    "question": "What does Deuteronomy mean?",
+    "options": ["Second Law", "First Law", "New Beginning", "Story of Moses"],
+    "answer": "Second Law"
+  },
+  {
+    "question": "Which mountain did Moses view the Promised Land from?",
+    "options": ["Sinai", "Horeb", "Nebo", "Carmel"],
+    "answer": "Nebo"
+  },
+  {
+    "question": "What did Moses warn the Israelites against?",
+    "options": ["Being lazy", "Idolatry", "Speaking other languages", "Fasting"],
+    "answer": "Idolatry"
+  },
+  {
+    "question": "Who succeeded Moses as the leader of Israel?",
+    "options": ["Caleb", "David", "Joshua", "Solomon"],
+    "answer": "Joshua"
+  },
+  {
+    "question": "What city did the Israelites march around for seven days to conquer?",
+    "options": ["Jericho", "Ai", "Bethlehem", "Hebron"],
+    "answer": "Jericho"
+  },
+  {
+    "question": "Who hid the Israelite spies in Jericho?",
+    "options": ["Miriam", "Rahab", "Deborah", "Esther"],
+    "answer": "Rahab"
+  },
+  {
+    "question": "What was the sign of the covenant between God and Israel after their victory?",
+    "options": ["A rainbow", "A stone", "A pillar of fire", "The sun standing still"],
+    "answer": "The sun standing still"
+  },
+  {
+    "question": "Who was the judge who defeated Sisera with the help of a woman?",
+    "options": ["Gideon", "Samson", "Deborah", "Jephthah"],
+    "answer": "Deborah"
+  },
+  {
+    "question": "Who defeated the Midianites with only 300 men?",
+    "options": ["Samson", "Gideon", "David", "Saul"],
+    "answer": "Gideon"
+  },
+  {
+    "question": "What was the name of the strong judge who was betrayed by Delilah?",
+    "options": ["Samson", "Jephthah", "Abimelech", "Othniel"],
+    "answer": "Samson"
+  },
+  {
+    "question": "Which judge made a vow to offer the first thing that came out of his house?",
+    "options": ["Jephthah", "Gideon", "Samson", "Barak"],
+    "answer": "Jephthah"
+  },
+  {
+    "question": "Who was Ruth's mother-in-law?",
+    "options": ["Hannah", "Deborah", "Naomi", "Sarah"],
+    "answer": "Naomi"
+  },
+  {
+    "question": "Where did Ruth meet Boaz?",
+    "options": ["In the field", "At the well", "At the market", "At the temple"],
+    "answer": "In the field"
+  },
+  {
+    "question": "Who was Ruth's first husband?",
+    "options": ["Boaz", "Elimelech", "Mahlon", "Naomi's son"],
+    "answer": "Mahlon"
+  },
+  {
+    "question": "What was Ruth's nationality?",
+    "options": ["Israelite", "Moabite", "Philistine", "Egyptian"],
+    "answer": "Moabite"
+  },
+  {
+    "question": "Who was the first king of Israel?",
+    "options": ["David", "Saul", "Solomon", "Samuel"],
+    "answer": "Saul"
+  },
+  {
+    "question": "Who defeated Goliath?",
+    "options": ["Saul", "David", "Solomon", "Joshua"],
+    "answer": "David"
+  },
+  {
+    "question": "Who anointed David as king?",
+    "options": ["Samuel", "Nathan", "Gad", "Elijah"],
+    "answer": "Samuel"
+  },
+  {
+    "question": "What did Saul offer to the person who killed Goliath?",
+    "options": ["Riches", "His daughter's hand in marriage", "A house", "Land"],
+    "answer": "His daughter's hand in marriage"
+  },
+  {
+    "question": "Who was the son of David who rebelled against him?",
+    "options": ["Absalom", "Solomon", "Rehoboam", "Adonijah"],
+    "answer": "Absalom"
+  },
+  {
+    "question": "What did David bring to Jerusalem to make it a holy city?",
+    "options": ["The Ark of the Covenant", "The Temple", "The Tabernacle", "The Golden Calf"],
+    "answer": "The Ark of the Covenant"
+  },
+  {
+    "question": "Who was David's best friend and son of Saul?",
+    "options": ["Jonathan", "Samuel", "Abner", "Nathan"],
+    "answer": "Jonathan"
+  },
+  {
+    "question": "Who was the wise king who built the temple in Jerusalem?",
+    "options": ["David", "Solomon", "Rehoboam", "Jeroboam"],
+    "answer": "Solomon"
+  },
+  {
+    "question": "What did Solomon ask for when God offered to give him anything?",
+    "options": ["Wealth", "Long life", "Wisdom", "Power over enemies"],
+    "answer": "Wisdom"
+  },  
+
+  {
+    "question": "Who challenged the prophets of Baal on Mount Carmel?",
+    "options": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+    "answer": "Elijah"
+  },
+  {
+    "question": "Which prophet was swallowed by a big fish?",
+    "options": ["Daniel", "Jonah", "Ezekiel", "Hosea"],
+    "answer": "Jonah"
+  },
+  {
+    "question": "Who was the prophet that succeeded Elijah?",
+    "options": ["Elisha", "Isaiah", "Jeremiah", "Malachi"],
+    "answer": "Elisha"
+  },
+  {
+    "question": "Who was the king of Israel that built the golden calves?",
+    "options": ["Solomon", "Saul", "Jeroboam", "Ahab"],
+    "answer": "Jeroboam"
+  },
+  {
+    "question": "Which prophet is known for the vision of dry bones coming to life?",
+    "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+    "answer": "Ezekiel"
+  },
+  {
+    "question": "Which king had a dream about a statue made of different metals?",
+    "options": ["David", "Solomon", "Nebuchadnezzar", "Cyrus"],
+    "answer": "Nebuchadnezzar"
+  },
+  {
+    "question": "Who was thrown into the fiery furnace for refusing to worship the golden image?",
+    "options": ["Shadrach", "Meshach", "Abednego", "Daniel"],
+    "answer": "Shadrach, Meshach, and Abednego"
+  },
+  {
+    "question": "Who was the Persian king that allowed the Israelites to return to Jerusalem?",
+    "options": ["Darius", "Cyrus", "Artaxerxes", "Xerxes"],
+    "answer": "Cyrus"
+  },
+  {
+    "question": "Who was the prophet that confronted King Ahab and Queen Jezebel?",
+    "options": ["Elijah", "Isaiah", "Hosea", "Amos"],
+    "answer": "Elijah"
+  },
+  {
+    "question": "Which prophet predicted the coming of a Messiah who would suffer for the sins of the people?",
+    "options": ["Isaiah", "Jeremiah", "Micah", "Zechariah"],
+    "answer": "Isaiah"
+  },
+  {
+    "question": "Who was swallowed by a great fish after fleeing from God's command?",
+    "options": ["Jonah", "Noah", "Elijah", "Daniel"],
+    "answer": "Jonah"
+  },
+  {
+    "question": "Who was the queen of Persia who saved the Jewish people?",
+    "options": ["Esther", "Ruth", "Deborah", "Miriam"],
+    "answer": "Esther"
+  },
+  {
+    "question": "Who was the first man to be called a 'prophet' in the Bible?",
+    "options": ["Abraham", "Moses", "Samuel", "Elijah"],
+    "answer": "Abraham"
+  },
+  {
+    "question": "Who was the last prophet in the Old Testament?",
+    "options": ["Isaiah", "Malachi", "Haggai", "Zechariah"],
+    "answer": "Malachi"
+  },
+  {
+    "question": "What is the shortest verse in the Bible?",
+    "options": ["Jesus wept.", "God is love.", "In the beginning.", "For God so loved the world."],
+    "answer": "Jesus wept."
+  },
+  {
+    "question": "Who was the Roman governor who sentenced Jesus to be crucified?",
+    "options": ["Pilate", "Caesar", "Herod", "Festus"],
+    "answer": "Pilate"
+  },
+  {
+    "question": "What was the name of the disciple who denied Jesus three times?",
+    "options": ["James", "John", "Peter", "Thomas"],
+    "answer": "Peter"
+  },
+  {
+    "question": "Who was the disciple known for doubting Jesus' resurrection until he saw Him?",
+    "options": ["Peter", "Thomas", "James", "Andrew"],
+    "answer": "Thomas"
+  },
+  {
+    "question": "What was the name of the place where Jesus was crucified?",
+    "options": ["Mount Zion", "Golgotha", "Bethlehem", "Mount Sinai"],
+    "answer": "Golgotha"
+  },
+  {
+    "question": "Who betrayed Jesus with a kiss?",
+    "options": ["Peter", "Judas", "Matthew", "John"],
+    "answer": "Judas"
+  },
+  {
+    "question": "Who was the first Christian martyr?",
+    "options": ["James", "Stephen", "Paul", "John"],
+    "answer": "Stephen"
+  },
+  {
+    "question": "Who wrote most of the New Testament letters?",
+    "options": ["Peter", "John", "Paul", "James"],
+    "answer": "Paul"
+  },
+  {
+    "question": "Which book comes last in the New Testament?",
+    "options": ["Revelation", "Jude", "John", "Acts"],
+    "answer": "Revelation"
+  },
+  {
+    "question": "Who was the first Gentile convert to Christianity?",
+    "options": ["Cornelius", "Lydia", "Eunice", "Titus"],
+    "answer": "Cornelius"
+  },
+  {
+    "question": "What event marks the beginning of the Christian Church?",
+    "options": ["The Resurrection", "The Ascension", "Pentecost", "The Last Supper"],
+    "answer": "Pentecost"
+  },
+  {
+    "question": "What was the first miracle performed by Jesus?",
+    "options": ["Healing a blind man", "Turning water into wine", "Feeding the 5000", "Walking on water"],
+    "answer": "Turning water into wine"
+  },
+  {
+    "question": "What did Jesus teach about loving your enemies?",
+    "options": ["Pray for them", "Hate them", "Ignore them", "Defeat them"],
+    "answer": "Pray for them"
+  },
+  {
+    "question": "What did Jesus say was the greatest commandment?",
+    "options": ["Love God", "Love your neighbor", "Honor your parents", "Keep the Sabbath holy"],
+    "answer": "Love God"
+  },
+  {
+    "question": "Who was the first to witness Jesus' resurrection?",
+    "options": ["Mary Magdalene", "Peter", "John", "Thomas"],
+    "answer": "Mary Magdalene"
+  },
+  {
+    "question": "Which apostle was known for being a tax collector before following Jesus?",
+    "options": ["Matthew", "Luke", "Mark", "John"],
+    "answer": "Matthew"
+  },
+  {
+    "question": "Who wrote the book of Revelation?",
+    "options": ["Paul", "John", "Peter", "James"],
+    "answer": "John"
+  }
+]  

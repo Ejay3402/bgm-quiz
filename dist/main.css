@@ -1,0 +1,138 @@
+/* variables */
+@font-face {
+  font-family: roboto;
+  src: url(../../font/Roboto/Roboto-BlackItalic.ttf);
+}
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+html {
+  box-sizing: inherit;
+  scroll-behavior: smooth;
+}
+
+a,
+a:focus,
+a:hover {
+  text-decoration: none;
+}
+
+body {
+  font-size: 100%;
+  background: url(../../assets/iamges/Premium\ Photo\ _\ Blue\ question\ mark\ random\ pattern\ background_\ Illustration_.jpeg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: roboto;
+  font-weight: 7000;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+.quiz-head {
+  background: transparent;
+  width: 100;
+  height: 110vh;
+  text-align: center;
+}
+.quiz-head h1 {
+  font-size: 5rem;
+  letter-spacing: 0.1em;
+}
+.quiz-head button {
+  padding: 13px 26px;
+  border: none;
+  background: hsl(234, 85%, 45%);
+  color: hsl(0, 0%, 100%);
+  border-radius: 12px;
+  transition: 0.3s ease-in-out;
+}
+.quiz-head button:hover {
+  cursor: pointer;
+  background: hsl(241, 81%, 54%);
+}
+
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  background-attachment: fixed;
+  width: 100%;
+}
+.con .quiz {
+  color: hsl(234, 85%, 0%);
+  width: 97%;
+  max-width: 100rem;
+  margin: 20px auto;
+  padding: 20px 13px;
+  border-radius: 11px;
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));
+}
+.con .quiz .questions h1 {
+  margin: 25px auto;
+  letter-spacing: 1px;
+  font-size: 2.15rem;
+  font-size: clamp(1.22rem, 0.954rem + 1.329vw, 2.25rem);
+  line-height: 1.5;
+}
+.con .quiz .questions .answers {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.con .quiz .questions .answers button {
+  width: 100%;
+  max-width: 1100px;
+  text-align: left;
+  margin: 12px auto;
+  padding: 14px 5px;
+  font-size: 2rem;
+  font-size: clamp(1rem, 0.768rem + 1.161vw, 1.9rem);
+  border: none;
+  border-radius: 8px;
+  background: hsl(252, 100%, 80%);
+  transition: 0.25s ease-in-out;
+}
+.con .quiz .questions .answers button:hover,
+.con .quiz .questions .answers button:focus {
+  background: red;
+  scale: 1.02;
+  font-weight: 800;
+}
+.con .quiz .question-option {
+  display: inline-flex;
+  align-items: center;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  flex: 1 1 150px;
+}
+.con .quiz .question-option a {
+  border-radius: 8px;
+  margin: 10px;
+  background: hsl(241, 72%, 46%);
+}
+.con .quiz .question-option a button {
+  padding: 12px 15px;
+  width: 55px;
+  font-size: 2rem;
+  font-size: clamp(1.005rem, 0.774rem + 1.155vw, 1.9rem);
+}
+
+.correct {
+  background: green;
+}
+
+.incorrct {
+  background: red;
+}/*# sourceMappingURL=main.css.map */
