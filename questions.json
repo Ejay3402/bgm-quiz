@@ -100,75 +100,122 @@
     "correct": "c"
   },
   {
-    "id" : 4,
+    "id" : 10,
     "question": "Which tribe was appointed as priests in Israel?",
-    "answers": {["Judah", "Ephraim", "Benjamin", "Lev}i"],
-    "correct": "Levi"
+    "answers": {
+      "a" : "A. Judah",
+      "b" : "B. Ephraim",
+      "c" :  "C. Benjamin",
+      "d" : "D Levi"
+    },
+    "correct": "d"
   },
   {
-    "id" : 4,
+    "id" : 11,
     "question": "What was not allowed to be offered as a burnt offering?",
-    "answers": {["Male animals", "Birds", "Animals wi}th defects", "Animals without blemish"],
-    "correct": "Animals with defects"
+    "answers": {
+      "a" : "A. Male animals",
+      "b" : "B. Birds",
+      "c" : "C. Animals with defects",
+      "d" : "D. Animals without blemish"
+    },
+    "correct": "c"
   },
   {
-    "id" : 4,
-    "question": "What day was the Day of Atonement observed?",
-    "answers": {["First day of the month", "Tenth day} of the seventh month", "Fifteenth day of the first month", "correct"h day of the tenth month"],
-    "answer": "Tenth day of the seventh month"
-  },
-  {
-  "id" : 4,
+  "id" : 12,
     "question": "How many spies were sent to Canaan?",
-    "answers"{: ["5", "10", "12", "15"],
-    "corre}ct": "12"
+    "answers": {
+      "a" : "A. 12",
+      "b" : "B. 10",
+      "c" : "C. 5",
+       "d" :"D. 15"
+      },
+    "correct": "a"
   },
   {
-  "id" : 4,
+  "id" : 13,
     "question": "Who rebelled against Moses' leadership?",
-    "answers"{: ["Korah", "Caleb", "Aaron", "Joshua}"],
-    "correct": "Korah"
+    "answers": {
+      "a" : "A. Korah",
+      "b" : "B. Caleb",
+      "c" : "C. Aaron",
+      "d" : "D. Joshua"
+    },
+    "correct": "a"
   },
   {
-  "id" : 4,
+  "id" : 14,
     "question": "What was the symbol of God's presence and guidance?",
-    "answers"{: ["A dove", "A cloud", "A mountain",} "A stone"],
-    "correct": "A cloud"
+    "answers": {
+      "a" : "A. A dove",
+      "b" : "B. A cloud",
+      "c" : "C. A mountain",
+      "d" : "D. A stone"
+    },
+    "correct": "b"
   },
   {
-  "id" : 4,
+  "id" : 15,
     "question": "Where did Moses strike a rock to bring water?",
-    "answers"{: ["Meribah", "Jericho", "Sinai", "Be}thel"],
-    "correct": "Meribah"
+    "answers" : {
+      "a" : "A. Bethel",
+      "b" : "B. Jericho",
+      "c" : "C. Sinai",
+      "d" : "D. Meribah"
+    },
+    "correct": "d"
   },
   {
-  "id" : 4,
+  "id" : 16,
     "question": "Which commandment emphasizes honoring parents?",
-    "answers"{: ["First", "Fifth", "Seventh", "Tent}h"],
-    "correct": "Fifth"
+    "answers": {
+      "a" : "A. First",
+      "b" :  "B. Fifth",
+      "c" : "C. Seventh",
+      "d" : "D. Tenth"
+    },
+    "correct": "b"
   },
   {
-  "id" : 4,
+  "id" : 17,
     "question": "What does Deuteronomy mean?",
-    "answers"{: ["Second Law", "First Law", "New Be}ginning", "Story of Moses"],
-    "correct": "Second Law"
+    "answers" : {
+      "a" : "A. Second Law",
+      "b" :  "B. First Law",
+      "c" : "C. New Beginning",
+      "d" : "D. Story of Moses"
+    },
+    "correct": "a"
   },
   {
-  "id" : 4,
+  "id" : 18,
     "question": "Which mountain did Moses view the Promised Land from?",
-    "answers"{: ["Sinai", "Horeb", "Nebo", "Carmel"}],
-    "correct": "Nebo"
+    "answers": {
+      "a" : "A. Sinai",
+      "b" : "B. Horeb",
+      "c" : "C. Nebo",
+      "d" : "D. Carmel"
+    },
+    "correct": "c"
   },
   {
-  "id" : 4,
+  "id" : 19,
     "question": "What did Moses warn the Israelites against?",
-    "answers"{: ["Being lazy", "Idolatry", "Speakin}g other languages", "Fasting"],
-    "correct": "Idolatry"
+    "answers" : {
+      "a" : "A. Being lazy",
+      "b" : "B. Idolatry",
+      "c" : "C. Speaking other languages",
+      "d" : "D. Fasting"
+    },
+    "correct": "b"
   },
   {
-  "id" : 4,
+  "id" : 20,
     "question": "Who succeeded Moses as the leader of Israel?",
-    "answers"{: ["Caleb", "David", "Joshua", "Solom}on"],
+    "answers" : {
+      "a" : "A. Caleb", "David", "Joshua",
+       "Solomon"
+    },
     "correct": "Joshua"
   },
   {
