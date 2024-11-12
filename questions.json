@@ -89,10 +89,15 @@
     "correct": "a"
   },
   {
-    "id" : 4,
+    "id" : 9,
     "question": "What was the purpose of the sacrifices detailed in Leviticus?",
-    "answers": {["Decoration", "Celebration", "Atonem}ent for sins", "Trade"],
-    "correct": "Atonement for sins"
+    "answers": {
+      "a" : "A. Decoration",
+      "b" : "B. Celebration",
+      "c" : "C. Atonement for sins",
+      "d" : "D. Trade"
+    },
+    "correct": "c"
   },
   {
     "id" : 4,
