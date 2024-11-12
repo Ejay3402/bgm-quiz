@@ -2,10 +2,16 @@
 
 //index styles
 .quiz-head {
-    background: transparent;
     width: 100;
-    height: 110vh;
+    height: auto;
     text-align: center;
+    color: v.$black;
+    width: 97%;
+    max-width: 100rem;
+    margin: 20px auto;
+    padding: 20px 13px;
+    border-radius: 11px;
+    background: linear-gradient(rgba(255,255,255, 0.9), rgba(255,255,255, 0.9));
 
     h1 {
         font-size: 5rem;

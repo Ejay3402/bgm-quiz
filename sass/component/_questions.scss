@@ -31,7 +31,7 @@
             flex-wrap: wrap;
             width: 100%;
 
-            button {
+            .ans-opt {
                 width: 100%;
                 max-width: 1100px;
                 text-align: left;
@@ -44,8 +44,8 @@
                 background: v.$Light-slate-blue;
                 transition: .250s ease-in-out;
             }
-            button:hover,
-            button:focus {
+            .ans-opt:hover,
+            .ans-opt:focus {
                 background: red;
                 scale: 1.02 ;
                 font-weight: 800;
@@ -54,22 +54,19 @@
        }
 
        .question-option {
-            display: inline-flex;
+            width: 100%;
+            display: flex;
             align-items: center;
             flex-flow: row wrap;
-            justify-content: space-evenly;
-            flex:  1 1 150px;
+            justify-content: space-around;
 
-            a {
+            button {
                 border-radius: 8px;
-                margin: 10px;
+                margin: 7px;
                 background: v.$Persian-blue;
-                button {
-                    padding: 12px 15px;
-                    width: 55px;
-                    font-size: 2rem;
-                    font-size: clamp(1.005rem, 0.774rem + 1.155vw, 1.9rem);
-                }
+                padding: 12px 15px;
+                font-size: 2rem;
+                font-size: clamp(1.005rem, 0.774rem + 1.155vw, 1.9rem);
             }
        }
 

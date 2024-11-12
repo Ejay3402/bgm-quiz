@@ -4,12 +4,12 @@
     "id": 1,
     "question": "Who was the first woman created by God?",
     "answers": {
-        "a": "A. Eve",
+        "a": "A. Rachel",
         "b": "B. Sarah",
-        "c": "C. Rachel",
+        "c": "C. Eve",
         "d": "D. Leah"
     },
-    "correct": "a"
+    "correct": "c"
 },
   {
     "id" : 2,
@@ -24,14 +24,14 @@
   },
   {
     "id" : 3,
-    "question": "What did God create on the seventh day?",
+    "question": "What did God did on the seventh day?",
     "answers": {
         "a" : "A. Animals",
         "b" : "B. Light",
         "c" : "C. Man",
         "d" :  "D. Rest"
     },
-    "correct": "Rest"
+    "correct": "d"
   },
   {
     "question": "Who was the son of Abraham and Sarah?",

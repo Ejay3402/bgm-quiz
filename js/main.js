@@ -14,35 +14,42 @@ fetch('./questions.json')
     .then(response => response.json())
     .then(data => {
         questions = data;
-        loadQuestion(currentQuestionIndex);
-        //startQuiz();
+        questions.sort(() => Math.random() - .5);
+        console.log(questions);
+        //loadQuestion(currentQuestionIndex);
+        startQuiz();
     })
     .catch(error => console.log(`can't load questions reload page or contact the developer`, error));
 
 
-let currentQuestionIndex = -1;
-let stuffQuestions = questions.sort(() => Math.random() - .5);
+let currentQuestionIndex =  -1;
 let selectedAnswers = "";
 let answeredQuestions = [];
 
-/* const startQuiz = () => {
-    if (questions.length >= 0) {
+
+
+const startQuiz = () => {
+    if (currentQuestionIndex >= 0) {
         loadQuestion(currentQuestionIndex);
     } else {
         console.log(`can't load up questions`);
+        question_head.textContent = `Pick any question from 1 - 70`;
+        ans_opt.forEach(btn => {
+            btn.addEventListener("click", () => {
+                alert('pick a question');
+            });
+        });
     }
-}; */ 
+}; 
 
 //loadQuestions
 
 const loadQuestion = (index) => {
     deselectedAnswer();
     currentQuestionIndex = index;
-    
-    console.log(questionData);
-   let questionData = questions[index];
-   let questionHead = `Question ${index + 1} : ${ questionData.question}`;
-   question_head.textContent = questionHead;
+    let questionData = questions[index];
+    let questionHead = `Question ${index + 1} : ${ questionData.question}`;
+    question_head.textContent = questionHead;
    
    //answers
    ans_opt.forEach(btn => {
