@@ -103,40 +103,80 @@ button {
   text-align: left;
   margin: 12px auto;
   padding: 14px 5px;
+  font-family: sans-serif;
   font-size: 2rem;
+  font-weight: 700;
   font-size: clamp(1rem, 0.768rem + 1.161vw, 1.9rem);
   border: none;
   border-radius: 8px;
   background: hsl(252, 100%, 80%);
   transition: 0.25s ease-in-out;
 }
-.con .quiz .questions .answers .ans-opt:hover,
+.con .quiz .questions .answers .ans-opt:hover:not([disabled]),
 .con .quiz .questions .answers .ans-opt:focus {
-  background: red;
+  background: hsl(241, 72%, 46%);
   scale: 1.02;
-  font-weight: 800;
+  color: #fff;
 }
 .con .quiz .questions .answers .ans-opt.correct {
-  background: green;
+  background: rgb(2, 148, 2);
   scale: 1.05;
+  color: #fff;
 }
 .con .quiz .questions .answers .ans-opt.incorrct {
-  background: red;
+  background: rgb(242, 7, 7);
+  scale: 0.951;
+  color: #fff;
+}
+.con .quiz .questions .answers button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+.con .quiz .center {
+  text-align: center;
+  margin: 10px auto;
+}
+.con .quiz .center h2 {
+  border-radius: 11px;
+  display: inline-block;
+  background: hsl(241, 81%, 54%);
+  color: #fff;
+  padding: 10px 15px;
+  animation: color 2s ease-in infinite both;
+}
+@keyframes color {
+  0% {
+    background: hsl(241, 81%, 54%);
+  }
+  20% {
+    background: hsl(0, 100%, 67%);
+  }
 }
 .con .quiz .question-option {
   width: 100%;
   display: flex;
   align-items: center;
   flex-flow: row wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 .con .quiz .question-option button {
   border-radius: 8px;
-  margin: 6px;
+  color: #fff;
+  margin: 10px 6px;
+  border: none;
   background: hsl(241, 72%, 46%);
   padding: 11px 14px;
+  transition: 0.2s ease-in;
   font-size: 2rem;
   font-size: clamp(0.888rem, 0.717rem + 0.855vw, 1.7rem);
+}
+.con .quiz .question-option button:hover {
+  background: hsl(234, 85%, 45%);
+  scale: 1.1;
+}
+.con .quiz .question-option button.disable {
+  background: #fff;
+  cursor: no-drop;
 }
 
 .correct {
@@ -145,4 +185,13 @@ button {
 
 .incorrct {
   background: red;
+}
+
+.disable {
+  background: red;
+}
+
+.ans-opt:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
 }/*# sourceMappingURL=main.css.map */
