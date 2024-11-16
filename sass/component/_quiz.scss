@@ -4,6 +4,8 @@
 .quiz-head {
     width: 100;
     height: auto;
+    display: flex;
+    flex-flow: column wrap;
     text-align: center;
     color: v.$black;
     width: 97%;
@@ -14,16 +16,40 @@
     background: linear-gradient(rgba(255,255,255, 0.9), rgba(255,255,255, 0.9));
 
     h1 {
-        font-size: 5rem;
+        margin: 30px auto;
+        font-size: 1.5rem; //min = max = 3rem
+        font-size: clamp(1.5rem, 0.823rem + 2.885vw, 3.6rem);
+    }
+
+    h2 {
+        font-size: 2.3rem;
+        font-size: clamp(1.2rem, 0.702rem + 2.492vw, 3.1rem);
+        margin: 32px auto;
+        color: #444454;
+    }
+
+    h4 {
+        margin: 31px auto;
+        background: v.$Cobalt-blue;
+        animation: color 2s ease-in infinite both;
+        padding: 12px 25px;
+        border-radius: 18px;
+        color: v.$White;
+        font-size: 1.2rem; //min = 1.2rem max 4.1rem
+        font-size: clamp(1.2rem, 0.439rem + 3.803vw, 4.1rem);
         letter-spacing: .1em;
     }
 
     button {
+        display: inline;
+        margin: 11px auto;
         padding: 13px 26px;
         border: none;
         background: v.$Cobalt-blue;
         color: v.$White;
         border-radius: 12px;
+        font-size: 2.2rem; //min = 1.1rem max = 2.2rem 
+        font-size: clamp(1.1rem, 0.811rem + 1.443vw, 2.2rem);
         transition: .300s ease-in-out;
     }
     button:hover {

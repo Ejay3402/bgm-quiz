@@ -16,6 +16,10 @@
         border-radius: 11px;
         background: linear-gradient(rgba(255,255,255, 0.9), rgba(255,255,255, 0.9));
 
+        @media (max-width: 450px) {
+            padding: 10px 8px;
+        }
+
        .questions {
         h1 {
             margin: 25px auto;
@@ -85,14 +89,17 @@
             @keyframes color {
                 0% {
                     background: v.$Light-royal-blue;
+                    scale: 1;
                 }
                 20% {
                     background: v.$Light-red;
+                    scale: 1.02;
                 }
             }
        }
 
        .question-option {
+            background: #f3eaea;
             width: 100%;
             display: flex;
             align-items: center;
@@ -110,8 +117,10 @@
                 font-size: 2rem;
                 font-size: clamp(0.888rem, 0.717rem + 0.855vw, 1.7rem);
             }
-            button:hover {
+            button:hover,
+            button:focus {
                 background: v.$Cobalt-blue;
+                color: orangered;
                 scale: 1.10;
             }
              button.disable {
