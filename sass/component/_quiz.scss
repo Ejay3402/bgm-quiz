@@ -66,4 +66,21 @@
         cursor: pointer;
         background: v.$Light-royal-blue;
     }
+
+    .figure {
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+        margin: 25px auto;
+        .img {
+            width: 80%;
+            max-width: 1000px;
+            height: auto;
+            overflow: hidden;
+            transition: .500s ease-in;
+        }
+    }
+    figure:hover img {
+        scale: 1.1;
+    }
 }

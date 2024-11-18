@@ -100,6 +100,22 @@ button {
   cursor: pointer;
   background: hsl(241, 81%, 54%);
 }
+.quiz-head .figure {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 25px auto;
+}
+.quiz-head .figure .img {
+  width: 80%;
+  max-width: 1000px;
+  height: auto;
+  overflow: hidden;
+  transition: 0.5s ease-in;
+}
+.quiz-head figure:hover img {
+  scale: 1.1;
+}
 
 .con {
   display: flex;
@@ -208,6 +224,7 @@ button {
   background: hsl(241, 72%, 46%);
   padding: 11px 14px;
   transition: 0.2s ease-in;
+  flex: 1;
   font-size: 2rem;
   font-size: clamp(0.888rem, 0.717rem + 0.855vw, 1.7rem);
 }
