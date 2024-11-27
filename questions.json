@@ -769,5 +769,335 @@
           "d" : "D. Elijah"
         },
         "correct": "d"
+      },
+      {
+        "id": 71,
+        "question": "What event marked the beginning of the Church in Acts 2?",
+        "answers": {
+          "a": "A. Ascension",
+          "b": "B. Pentecost",
+          "c": "C. Baptism of John",
+          "d": "D. Transfiguration"
+        },
+        "correct": "b"
+      },
+      {
+        "id": 72,
+        "question": "Who healed the lame man at the Beautiful Gate in Acts 3?",
+        "answers": {
+          "a": "A. Peter",
+          "b": "B. Paul",
+          "c": "C. John",
+          "d": "D. Barnabas"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 73,
+        "question": "In Acts 5, who lied to the Holy Spirit and fell dead?",
+        "answers": {
+          "a": "A. Alexander",
+          "b": "B. Simon the Sorcerer",
+          "c": "C. Ananias and Sapphira",
+          "d": "D. Demetrius"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 74,
+        "question": "Who was the first Christian martyr recorded in Acts?",
+        "answers": {
+          "a": "A. Philip",
+          "b": "B. James",
+          "c": "C. Peter",
+          "d": "D. Stephen"
+        },
+        "correct": "d"
+      },
+      {
+        "id": 75,
+        "question": "What was Saul doing when he encountered Jesus on the road to Damascus?",
+        "answers": {
+          "a": "A. Persecuting Christians",
+          "b": "B. Preaching the gospel",
+          "c": "C. Praying",
+          "d": "D. Traveling to Jerusalem"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 76,
+        "question": "What was Cornelius known for in Acts 10?",
+        "answers": {
+          "a": "A. Building a synagogue",
+          "b": "B. Being a Roman centurion",
+          "c": "C. Opposing Peter",
+          "d": "D. Healing the sick"
+        },
+        "correct": "b"
+      },
+      {
+        "id": 77,
+        "question": "Which disciple raised Dorcas (Tabitha) from the dead?",
+        "answers": {
+          "a": "A. John",
+          "b": "B. Paul",
+          "c": "C. Peter",
+          "d": "D. James"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 78,
+        "question": "What city was Paul in when he preached about the 'unknown god'?",
+        "answers": {
+          "a": "A. Ephesus",
+          "b": "B. Athens",
+          "c": "C. Philippi",
+          "d": "D. Corinth"
+        },
+        "correct": "b"
+      },
+      {
+        "id": 79,
+        "question": "Who was the seller of purple cloth who was converted in Philippi?",
+        "answers": {
+          "a": "A. Phoebe",
+          "b": "B. Priscilla",
+          "c": "C. Dorcas",
+          "d": "D. Lydia"
+        },
+        "correct": "d"
+      },
+      {
+        "id": 80,
+        "question": "What was the main issue discussed at the Jerusalem Council in Acts 15?",
+        "answers": {
+          "a": "A. Circumcision and the law",
+          "b": "B. Baptism by water",
+          "c": "C. Gentile sacrifices",
+          "d": "D. Sabbath observance"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 81,
+        "question": "What natural disaster occurred while Paul was on his way to Rome?",
+        "answers": {
+          "a": "A. A famine",
+          "b": "B. An earthquake",
+          "c": "C. A shipwreck",
+          "d": "D. A plague"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 82,
+        "question": "What was the name of the prophet who predicted Paul's arrest in Jerusalem?",
+        "answers": {
+          "a": "A. Philip",
+          "b": "B. Silas",
+          "c": "C. Agabus",
+          "d": "D. Barnabas"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 83,
+        "question": "Who was the silversmith that opposed Paul in Ephesus?",
+        "answers": {
+          "a": "A. Alexander",
+          "b": "B. Demetrius",
+          "c": "C. Ananias",
+          "d": "D. Tertullus"
+        },
+        "correct": "b"
+      },
+      {
+        "id": 84,
+        "question": "Which ruler did Paul almost persuade to become a Christian?",
+        "answers": {
+          "a": "A. Agrippa",
+          "b": "B. Felix",
+          "c": "C. Festus",
+          "d": "D. Claudius"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 85,
+        "question": "Who joined Paul and Silas during their second missionary journey?",
+        "answers": {
+          "a": "A. Luke",
+          "b": "B. John Mark",
+          "c": "C. Timothy",
+          "d": "D. Barnabas"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 86,
+        "question": "What miraculous event happened when Paul and Silas were in prison?",
+        "answers": {
+          "a": "A. The guards released them",
+          "b": "B. An angel freed them",
+          "c": "C. They disappeared",
+          "d": "D. An earthquake opened the prison doors"
+        },
+        "correct": "d"
+      },
+      {
+        "id": 87,
+        "question": "What was the name of the young man who fell from a window while Paul preached?",
+        "answers": {
+          "a": "A. Eutychus",
+          "b": "B. Tychicus",
+          "c": "C. Ananias",
+          "d": "D. Stephanas"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 88,
+        "question": "Who accompanied Paul on his first missionary journey?",
+        "answers": {
+          "a": "A. Barnabas",
+          "b": "B. Silas",
+          "c": "C. Luke",
+          "d": "D. John Mark"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 89,
+        "question": "What was the name of the sorcerer who opposed Paul in Cyprus?",
+        "answers": {
+          "a": "A. Simon",
+          "b": "B. Elymas",
+          "c": "C. Alexander",
+          "d": "D. Barabbas"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 90,
+        "question": "What island was Paul shipwrecked on in Acts 27?",
+        "answers": {
+          "a": "A. Patmos",
+          "b": "B. Crete",
+          "c": "C. Malta",
+          "d": "D. Cyprus"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 91,
+        "question": "What was the profession of Aquila and Priscilla?",
+        "answers": {
+          "a": "A. Fishermen",
+          "b": "B. Tentmakers",
+          "c": "C. Merchants",
+          "d": "D. Shepherds"
+        },
+        "correct": "b"
+      },
+      {
+        "id": 92,
+        "question": "What vision did Peter see in Acts 10?",
+        "answers": {
+          "a": "A. A sheet filled with animals",
+          "b": "B. A ladder reaching to heaven",
+          "c": "C. A burning bush",
+          "d": "D. A flaming chariot"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 93,
+        "question": "Who was the governor Paul stood trial before in Acts 24?",
+        "answers": {
+          "a": "A. Agrippa",
+          "b": "B. Festus",
+          "c": "C. Felix",
+          "d": "D. Pilate"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 94,
+        "question": "What was the name of the sorcerer baptized by Philip in Samaria?",
+        "answers": {
+          "a": "A. Simon",
+          "b": "B. Bar-Jesus",
+          "c": "C. Elymas",
+          "d": "D. Alexander"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 95,
+        "question": "Who was the first apostle to be martyred?",
+        "answers": {
+          "a": "A. John",
+          "b": "B. Peter",
+          "c": "C. Stephen",
+          "d": "D. James"
+        },
+        "correct": "d"
+      },
+      {
+        "id": 96,
+        "question": "What was the name of the Pharisee who advised caution about opposing the apostles?",
+        "answers": {
+          "a": "A. Gamaliel",
+          "b": "B. Nicodemus",
+          "c": "C. Caiaphas",
+          "d": "D. Annas"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 97,
+        "question": "In Acts 16, what was the name of the jailer who was converted?",
+        "answers": {
+          "a": "A. Cornelius",
+          "b": "B. Crispus",
+          "c": "C. His name is not given",
+          "d": "D. Justus"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 98,
+        "question": "What did Paul and Barnabas disagree about before their second journey?",
+        "answers": {
+          "a": "A. Taking John and Mark with them",
+          "b": "B. Preaching in Ephesus",
+          "c": "C. Gentile conversions",
+          "d": "D. Visiting Jerusalem"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 99,
+        "question": "In what city were Paul and Silas beaten and imprisoned?",
+        "answers": {
+          "a": "A. Philippi",
+          "b": "B. Thessalonica",
+          "c": "C. Antioch",
+          "d": "D. Corinth"
+        },
+        "correct": "a"
+      },
+      {
+        "id": 100,
+        "question": "How did Herod Agrippa die in Acts 12?",
+        "answers": {
+          "a": "A. Struck down by an angel",
+          "b": "B. In battle",
+          "c": "C. Poisoned",
+          "d": "D. Killed by the Jews"
+        },
+        "correct": "a"
       }
-  ]  
+  ] 

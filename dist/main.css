@@ -63,8 +63,10 @@ button {
   height: auto;
 }
 .quiz-head figure img {
-  width: 230px;
+  width: 350px;
+  max-width: 132px;
   height: auto;
+  transition: 0.3s;
   cursor: grab;
 }
 .quiz-head h2 {

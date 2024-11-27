@@ -11,7 +11,7 @@ let questions = [];
 
 //get questions
 
-fetch('.questions.json')
+fetch('./questions.json')
     .then(response => response.json())
     .then(data => {
         questions = data;
@@ -30,8 +30,8 @@ const startQuiz = () => {
     if (currentQuestionIndex >= 0) {
         loadQuestion(currentQuestionIndex);
     } else {
-        console.log(`Pick any question from 1 - 70`);
-        question_head.textContent = `Pick any question from 1 - 70`;
+        console.log(`Pick any question from 1 - 100`);
+        question_head.textContent = `Pick any question from 1 - 100`;
     }
 }; 
 
