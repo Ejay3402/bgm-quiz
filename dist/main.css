@@ -238,6 +238,7 @@ button {
 }
 .con .quiz .question-option button.disable {
   background: #fff;
+  color: orangered;
   cursor: no-drop;
 }
 
