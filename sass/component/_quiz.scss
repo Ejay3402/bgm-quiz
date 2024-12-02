@@ -65,6 +65,7 @@
         transition: .300s ease-in-out;
     }
     button:hover {
+        filter: drop-shadow(1rem 1rem 3em red);
         cursor: pointer;
         background: v.$Light-royal-blue;
     }

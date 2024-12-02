@@ -99,6 +99,7 @@ button {
   transition: 0.3s ease-in-out;
 }
 .quiz-head button:hover {
+  filter: drop-shadow(1rem 1rem 3em red);
   cursor: pointer;
   background: hsl(241, 81%, 54%);
 }
@@ -170,6 +171,7 @@ button {
 }
 .con .quiz .questions .answers .ans-opt:hover:not([disabled]),
 .con .quiz .questions .answers .ans-opt:focus {
+  filter: drop-shadow(0 0 0.5em #000080);
   background: hsl(241, 72%, 46%);
   scale: 1.02;
   color: #fff;
@@ -199,6 +201,7 @@ button {
   color: #fff;
   padding: 10px 15px;
   animation: color 2s ease-in infinite both;
+  filter: drop-shadow(1rem 1rem 3em red);
 }
 @keyframes color {
   0% {
@@ -232,6 +235,7 @@ button {
 }
 .con .quiz .question-option button:hover,
 .con .quiz .question-option button:focus {
+  filter: drop-shadow(1rem 1rem 3em red);
   background: hsl(234, 85%, 45%);
   color: orangered;
   scale: 1.1;

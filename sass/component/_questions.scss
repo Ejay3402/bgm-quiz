@@ -52,6 +52,7 @@
             }
             .ans-opt:hover:not([disabled]),
             .ans-opt:focus {
+                filter: drop-shadow(0 0 0.5em #000080);
                 background: v.$Persian-blue;
                 scale: 1.02 ;
                 color: #fff;
@@ -85,6 +86,7 @@
                 color: #fff;
                 padding: 10px 15px;
                 animation: color 2s ease-in infinite both;
+                filter: drop-shadow(1rem 1rem 3em red);
             }
             @keyframes color {
                 0% {
@@ -120,6 +122,7 @@
             }
             button:hover,
             button:focus {
+                filter: drop-shadow(1rem 1rem 3em red);
                 background: v.$Cobalt-blue;
                 color: orangered;
                 scale: 1.10;
